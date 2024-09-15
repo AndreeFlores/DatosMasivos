@@ -6,5 +6,5 @@
 
  Datos obtenidos en: <https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022>
 
- Debido al tamaño de los datos, no pude subir el archivo. Se utilizo el archivo Combined_Flights_2018.csv
- del .zip proporcionado en el link.
+ Debido al tamaño de los datos, no pude subir el archivo de los datos.
+ Para cargar los datos agrega el archivo data.zip descargado del link en la carpeta Datos.

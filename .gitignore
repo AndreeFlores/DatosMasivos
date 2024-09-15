@@ -160,4 +160,6 @@ cython_debug/
 #.idea/
 
 Datos/Combined_Flights_2018.csv
+Datos/Combined_Flights_2021.csv
 Datos/Combined_Flights_2018.zip
+Datos/data.zip
