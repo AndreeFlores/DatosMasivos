@@ -160,6 +160,13 @@ cython_debug/
 #.idea/
 
 Datos/Combined_Flights_2018.csv
+Datos/Combined_Flights_2019.csv
+Datos/Combined_Flights_2020.csv
 Datos/Combined_Flights_2021.csv
+Datos/Combined_Flights_2022.csv
 Datos/Combined_Flights_2018.zip
 Datos/data.zip
+
+Datos/*.parquet
+
+clases/
