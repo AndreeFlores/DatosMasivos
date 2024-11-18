@@ -1,0 +1,432 @@
+Origin,OriginAirportID,OriginAirportSeqID,OriginCityName,OriginStateName
+LBB,12896,1289607,"Lubbock, TX",Texas
+CSG,11150,1115005,"Columbus, GA",Georgia
+OAJ,13795,1379502,"Jacksonville/Camp Lejeune, NC",North Carolina
+TTN,15356,1535602,"Trenton, NJ",New Jersey
+ROA,14574,1457405,"Roanoke, VA",Virginia
+CVG,11193,1119302,"Cincinnati, OH",Kentucky
+LEX,12945,1294503,"Lexington, KY",Kentucky
+RDM,14489,1448902,"Bend/Redmond, OR",Oregon
+DRT,11415,1141501,"Del Rio, TX",Texas
+MFE,13256,1325602,"Mission/McAllen/Edinburg, TX",Texas
+FLG,11695,1169502,"Flagstaff, AZ",Arizona
+ORF,13931,1393102,"Norfolk, VA",Virginia
+MCI,13198,1319801,"Kansas City, MO",Missouri
+ORH,13933,1393305,"Worcester, MA",Massachusetts
+RFD,14512,1451202,"Rockford, IL",Illinois
+SBN,14696,1469608,"South Bend, IN",Indiana
+WRG,15841,1584102,"Wrangell, AK",Alaska
+TOL,15295,1529502,"Toledo, OH",Ohio
+MYR,13577,1357702,"Myrtle Beach, SC",South Carolina
+RIC,14524,1452401,"Richmond, VA",Virginia
+ILG,12320,1232002,"Wilmington, DE",Delaware
+TUL,15370,1537002,"Tulsa, OK",Oklahoma
+FAT,11638,1163807,"Fresno, CA",California
+AGS,10208,1020803,"Augusta, GA",Georgia
+ROC,14576,1457606,"Rochester, NY",New York
+MAF,13158,1315805,"Midland/Odessa, TX",Texas
+SJU,14843,1484306,"San Juan, PR",Puerto Rico
+ANC,10299,1029906,"Anchorage, AK",Alaska
+GRB,11977,1197705,"Green Bay, WI",Wisconsin
+LAX,12892,1289208,"Los Angeles, CA",California
+PHX,14107,1410702,"Phoenix, AZ",Arizona
+CWA,11203,1120302,"Mosinee, WI",Wisconsin
+AVL,10431,1043105,"Asheville, NC",North Carolina
+CLT,11057,1105703,"Charlotte, NC",North Carolina
+CRP,11140,1114008,"Corpus Christi, TX",Texas
+PHF,14098,1409803,"Newport News/Williamsburg, VA",Virginia
+LAN,12884,1288403,"Lansing, MI",Michigan
+BGM,10577,1057705,"Binghamton, NY",New York
+GRR,11986,1198603,"Grand Rapids, MI",Michigan
+LIH,12982,1298202,"Lihue, HI",Hawaii
+DAB,11252,1125203,"Daytona Beach, FL",Florida
+MLI,13367,1336705,"Moline, IL",Illinois
+SAV,14685,1468502,"Savannah, GA",Georgia
+KOA,12758,1275804,"Kona, HI",Hawaii
+MSP,13487,1348702,"Minneapolis, MN",Minnesota
+IAH,12266,1226603,"Houston, TX",Texas
+PVD,14307,1430705,"Providence, RI",Rhode Island
+SJC,14831,1483106,"San Jose, CA",California
+YAK,15991,1599102,"Yakutat, AK",Alaska
+MRY,13476,1347605,"Monterey, CA",California
+SFB,14761,1476107,"Sanford, FL",Florida
+BLI,10666,1066602,"Bellingham, WA",Washington
+EUG,11603,1160302,"Eugene, OR",Oregon
+PBG,14025,1402501,"Plattsburgh, NY",New York
+CRW,11146,1114607,"Charleston/Dunbar, WV",West Virginia
+LYH,13139,1313902,"Lynchburg, VA",Virginia
+VLD,15607,1560702,"Valdosta, GA",Georgia
+MBS,13184,1318403,"Saginaw/Bay City/Midland, MI",Michigan
+SCE,14711,1471105,"State College, PA",Pennsylvania
+ITH,12397,1239702,"Ithaca/Cortland, NY",New York
+EWR,11618,1161802,"Newark, NJ",New Jersey
+LGA,12953,1295304,"New York, NY",New York
+ITO,12402,1240203,"Hilo, HI",Hawaii
+RDU,14492,1449202,"Raleigh/Durham, NC",North Carolina
+STL,15016,1501606,"St. Louis, MO",Missouri
+BIL,10620,1062003,"Billings, MT",Montana
+MTJ,13502,1350202,"Montrose/Delta, CO",Colorado
+OMA,13871,1387102,"Omaha, NE",Nebraska
+TYS,15412,1541205,"Knoxville, TN",Tennessee
+BDL,10529,1052906,"Hartford, CT",Connecticut
+ABE,10135,1013506,"Allentown/Bethlehem/Easton, PA",Pennsylvania
+SBA,14689,1468902,"Santa Barbara, CA",California
+FWA,11823,1182304,"Fort Wayne, IN",Indiana
+DCA,11278,1127805,"Washington, DC",Virginia
+CLE,11042,1104205,"Cleveland, OH",Ohio
+TLH,15249,1524906,"Tallahassee, FL",Florida
+RST,14633,1463303,"Rochester, MN",Minnesota
+PSE,14254,1425404,"Ponce, PR",Puerto Rico
+SHV,14814,1481402,"Shreveport, LA",Louisiana
+HNL,12173,1217305,"Honolulu, HI",Hawaii
+YUM,16218,1621802,"Yuma, AZ",Arizona
+BTV,10785,1078502,"Burlington, VT",Vermont
+STX,15027,1502704,"Christiansted, VI",U.S. Virgin Islands
+SAN,14679,1467903,"San Diego, CA",California
+MDT,13230,1323002,"Harrisburg, PA",Pennsylvania
+SWF,15070,1507003,"Newburgh/Poughkeepsie, NY",New York
+AEX,10185,1018502,"Alexandria, LA",Louisiana
+XNA,15919,1591904,"Fayetteville, AR",Arkansas
+BRO,10747,1074706,"Brownsville, TX",Texas
+MFR,13264,1326403,"Medford, OR",Oregon
+AZA,10466,1046602,"Phoenix, AZ",Arizona
+CID,11003,1100303,"Cedar Rapids/Iowa City, IA",Iowa
+BRW,10754,1075405,"Barrow, AK",Alaska
+DEN,11292,1129202,"Denver, CO",Colorado
+FLL,11697,1169706,"Fort Lauderdale, FL",Florida
+ISP,12391,1239103,"Islip, NY",New York
+MOT,13433,1343302,"Minot, ND",North Dakota
+EVV,11612,1161206,"Evansville, IN",Indiana
+ADQ,10170,1017004,"Kodiak, AK",Alaska
+BFL,10561,1056103,"Bakersfield, CA",California
+BLV,10676,1067602,"Belleville, IL",Illinois
+SGF,14783,1478302,"Springfield, MO",Missouri
+PVU,14314,1431402,"Provo, UT",Utah
+MEI,13241,1324102,"Meridian, MS",Mississippi
+BJI,10631,1063104,"Bemidji, MN",Minnesota
+SHD,14802,1480202,"Staunton, VA",Virginia
+SBP,14698,1469802,"San Luis Obispo, CA",California
+DLG,11336,1133602,"Dillingham, AK",Alaska
+ALS,10272,1027205,"Alamosa, CO",Colorado
+BPT,10728,1072804,"Beaumont/Port Arthur, TX",Texas
+HIB,12129,1212903,"Hibbing, MN",Minnesota
+CNY,11092,1109204,"Moab, UT",Utah
+DVL,11447,1144705,"Devils Lake, ND",North Dakota
+ESC,11587,1158702,"Escanaba, MI",Michigan
+XWA,16869,1686901,"Williston, ND",North Dakota
+CMX,11076,1107602,"Hancock/Houghton, MI",Michigan
+SPN,14955,1495503,"Saipan, TT",U.S. Pacific Trust Territories and Possessions
+BFF,10558,1055803,"Scottsbluff, NE",Nebraska
+GRK,11982,1198202,"Killeen, TX",Texas
+AKN,10245,1024502,"King Salmon, AK",Alaska
+BTM,10779,1077902,"Butte, MT",Montana
+GUM,12016,1201602,"Guam, TT",U.S. Pacific Trust Territories and Possessions
+BRD,10739,1073907,"Brainerd, MN",Minnesota
+EAU,11471,1147103,"Eau Claire, WI",Wisconsin
+ALW,10275,1027506,"Walla Walla, WA",Washington
+MHK,13290,1329003,"Manhattan/Ft. Riley, KS",Kansas
+DEC,11288,1128802,"Decatur, IL",Illinois
+DBQ,11274,1127402,"Dubuque, IA",Iowa
+HOB,12177,1217705,"Hobbs, NM",New Mexico
+TWF,15389,1538902,"Twin Falls, ID",Idaho
+EAR,11468,1146802,"Kearney, NE",Nebraska
+CGI,10967,1096702,"Cape Girardeau, MO",Missouri
+SUX,15048,1504804,"Sioux City, IA",Iowa
+PUB,14288,1428805,"Pueblo, CO",Colorado
+LSE,13076,1307605,"La Crosse, WI",Wisconsin
+TYR,15411,1541106,"Tyler, TX",Texas
+ROW,14588,1458804,"Roswell, NM",New Mexico
+LAR,12888,1288802,"Laramie, WY",Wyoming
+SGU,14794,1479405,"St. George, UT",Utah
+FSM,11778,1177801,"Fort Smith, AR",Arkansas
+WYS,15897,1589702,"West Yellowstone, MT",Montana
+GST,11997,1199702,"Gustavus, AK",Alaska
+BKG,10643,1064301,"Branson, MO",Missouri
+MVY,13541,1354102,"Martha's Vineyard, MA",Massachusetts
+IPT,12365,1236504,"Williamsport, PA",Pennsylvania
+LNY,13034,1303402,"Lanai, HI",Hawaii
+PPG,14222,1422206,"Pago Pago, TT",U.S. Pacific Trust Territories and Possessions
+ABE,10135,1013505,"Allentown/Bethlehem/Easton, PA",Pennsylvania
+DUT,11445,1144505,"Unalaska, AK",Alaska
+ELM,11537,1153705,"Elmira/Corning, NY",New York
+MQT,13459,1345902,"Marquette, MI",Michigan
+PQI,14231,1423102,"Presque Isle/Houlton, ME",Maine
+SFB,14761,1476106,"Sanford, FL",Florida
+TYR,15411,1541105,"Tyler, TX",Texas
+CRW,11146,1114606,"Charleston/Dunbar, WV",West Virginia
+EYW,11624,1162402,"Key West, FL",Florida
+ORD,13930,1393006,"Chicago, IL",Illinois
+OGD,13829,1382902,"Ogden, UT",Utah
+ISP,12391,1239102,"Islip, NY",New York
+YUM,16218,1621801,"Yuma, AZ",Arizona
+DAL,11259,1125903,"Dallas, TX",Texas
+CNY,11092,1109202,"Moab, UT",Utah
+RKS,14543,1454302,"Rock Springs, WY",Wyoming
+DLH,11337,1133704,"Duluth, MN",Minnesota
+ROP,14582,1458209,"Rota, TT",U.S. Pacific Trust Territories and Possessions
+MLU,13377,1337702,"Monroe, LA",Louisiana
+BGR,10581,1058102,"Bangor, ME",Maine
+DRO,11413,1141307,"Durango, CO",Colorado
+DIK,11315,1131502,"Dickinson, ND",North Dakota
+ART,10361,1036105,"Watertown, NY",New York
+BOS,10721,1072102,"Boston, MA",Massachusetts
+SLC,14869,1486903,"Salt Lake City, UT",Utah
+ACT,10155,1015502,"Waco, TX",Texas
+SAT,14683,1468305,"San Antonio, TX",Texas
+PGD,14082,1408202,"Punta Gorda, FL",Florida
+CPR,11122,1112205,"Casper, WY",Wyoming
+SYR,15096,1509602,"Syracuse, NY",New York
+SEA,14747,1474703,"Seattle, WA",Washington
+BTR,10781,1078105,"Baton Rouge, LA",Louisiana
+ABQ,10140,1014005,"Albuquerque, NM",New Mexico
+BUF,10792,1079206,"Buffalo, NY",New York
+HSV,12217,1221702,"Huntsville, AL",Alabama
+DAY,11267,1126702,"Dayton, OH",Ohio
+PIT,14122,1412202,"Pittsburgh, PA",Pennsylvania
+PHL,14100,1410005,"Philadelphia, PA",Pennsylvania
+HOU,12191,1219102,"Houston, TX",Texas
+SIT,14828,1482805,"Sitka, AK",Alaska
+CKB,11027,1102705,"Clarksburg/Fairmont, WV",West Virginia
+FNT,11721,1172105,"Flint, MI",Michigan
+SMX,14905,1490505,"Santa Maria, CA",California
+PSG,14256,1425605,"Petersburg, AK",Alaska
+ERI,11577,1157706,"Erie, PA",Pennsylvania
+PWM,14321,1432105,"Portland, ME",Maine
+MCO,13204,1320402,"Orlando, FL",Florida
+CHA,10980,1098002,"Chattanooga, TN",Tennessee
+HRL,12206,1220605,"Harlingen/San Benito, TX",Texas
+OGD,13829,1382903,"Ogden, UT",Utah
+SCC,14709,1470904,"Deadhorse, AK",Alaska
+ILM,12323,1232305,"Wilmington, NC",North Carolina
+GRI,11980,1198002,"Grand Island, NE",Nebraska
+LAW,12891,1289102,"Lawton/Fort Sill, OK",Oklahoma
+EYW,11624,1162403,"Key West, FL",Florida
+PNS,14193,1419306,"Pensacola, FL",Florida
+CDV,10926,1092603,"Cordova, AK",Alaska
+CAE,10868,1086803,"Columbia, SC",South Carolina
+PGV,14092,1409205,"Greenville, NC",North Carolina
+LFT,12951,1295106,"Lafayette, LA",Louisiana
+MSN,13485,1348502,"Madison, WI",Wisconsin
+BET,10551,1055102,"Bethel, AK",Alaska
+DFW,11298,1129806,"Dallas/Fort Worth, TX",Texas
+FAR,11637,1163703,"Fargo, ND",North Dakota
+ADK,10165,1016506,"Adak Island, AK",Alaska
+GPT,11973,1197302,"Gulfport/Biloxi, MS",Mississippi
+FSD,11775,1177502,"Sioux Falls, SD",South Dakota
+LGB,12954,1295407,"Long Beach, CA",California
+BZN,10849,1084907,"Bozeman, MT",Montana
+STS,15023,1502305,"Santa Rosa, CA",California
+PSP,14262,1426204,"Palm Springs, CA",California
+BIS,10627,1062702,"Bismarck/Mandan, ND",North Dakota
+PAE,14004,1400402,"Everett, WA",Washington
+BQK,10731,1073103,"Brunswick, GA",Georgia
+GEG,11884,1188402,"Spokane, WA",Washington
+GTF,12003,1200305,"Great Falls, MT",Montana
+LIT,12992,1299206,"Little Rock, AR",Arkansas
+PQI,14231,1423103,"Presque Isle/Houlton, ME",Maine
+HTS,12223,1222305,"Ashland, WV",West Virginia
+MIA,13303,1330303,"Miami, FL",Florida
+SPS,14960,1496002,"Wichita Falls, TX",Texas
+GFK,11898,1189802,"Grand Forks, ND",North Dakota
+KTN,12819,1281902,"Ketchikan, AK",Alaska
+SRQ,14986,1498603,"Sarasota/Bradenton, FL",Florida
+MKE,13342,1334207,"Milwaukee, WI",Wisconsin
+VPS,15624,1562404,"Valparaiso, FL",Florida
+GSP,11996,1199603,"Greer, SC",South Carolina
+OTZ,13970,1397005,"Kotzebue, AK",Alaska
+AVP,10434,1043405,"Scranton/Wilkes-Barre, PA",Pennsylvania
+CMH,11066,1106606,"Columbus, OH",Ohio
+JAX,12451,1245102,"Jacksonville, FL",Florida
+RNO,14570,1457002,"Reno, NV",Nevada
+CAK,10874,1087402,"Akron, OH",Ohio
+MHT,13296,1329604,"Manchester, NH",New Hampshire
+LRD,13061,1306106,"Laredo, TX",Texas
+ELP,11540,1154005,"El Paso, TX",Texas
+DSM,11423,1142307,"Des Moines, IA",Iowa
+DAL,11259,1125904,"Dallas, TX",Texas
+RAP,14457,1445702,"Rapid City, SD",South Dakota
+HHH,12124,1212402,"Hilton Head, SC",South Carolina
+JFK,12478,1247805,"New York, NY",New York
+BWI,10821,1082106,"Baltimore, MD",Maryland
+PPG,14222,1422207,"Pago Pago, TT",U.S. Pacific Trust Territories and Possessions
+DLH,11337,1133705,"Duluth, MN",Minnesota
+ALB,10257,1025702,"Albany, NY",New York
+AUS,10423,1042302,"Austin, TX",Texas
+ABY,10146,1014602,"Albany, GA",Georgia
+SMF,14893,1489302,"Sacramento, CA",California
+AZO,10469,1046902,"Kalamazoo, MI",Michigan
+GCK,11867,1186703,"Garden City, KS",Kansas
+MSO,13486,1348602,"Missoula, MT",Montana
+CMI,11067,1106702,"Champaign/Urbana, IL",Illinois
+LCK,12917,1291703,"Columbus, OH",Ohio
+LCH,12915,1291503,"Lake Charles, LA",Louisiana
+GUC,12012,1201205,"Gunnison, CO",Colorado
+PSM,14259,1425902,"Portsmouth, NH",New Hampshire
+ABI,10136,1013603,"Abilene, TX",Texas
+ICT,12278,1227805,"Wichita, KS",Kansas
+HPN,12197,1219702,"White Plains, NY",New York
+OKC,13851,1385103,"Oklahoma City, OK",Oklahoma
+TPA,15304,1530402,"Tampa, FL",Florida
+BOI,10713,1071302,"Boise, ID",Idaho
+IND,12339,1233904,"Indianapolis, IN",Indiana
+OGG,13830,1383002,"Kahului, HI",Hawaii
+SNA,14908,1490803,"Santa Ana, CA",California
+BNA,10693,1069302,"Nashville, TN",Tennessee
+HDN,12094,1209402,"Hayden, CO",Colorado
+GSO,11995,1199502,"Greensboro/High Point, NC",North Carolina
+TRI,15323,1532305,"Bristol/Johnson City/Kingsport, TN",Tennessee
+FLO,11699,1169902,"Florence, SC",South Carolina
+PSC,14252,1425202,"Pasco/Kennewick/Richland, WA",Washington
+MDW,13232,1323202,"Chicago, IL",Illinois
+EGE,11503,1150305,"Eagle, CO",Colorado
+LNK,13029,1302902,"Lincoln, NE",Nebraska
+SDF,14730,1473004,"Louisville, KY",Kentucky
+JNU,12523,1252306,"Juneau, AK",Alaska
+ATL,10397,1039707,"Atlanta, GA",Georgia
+MSY,13495,1349505,"New Orleans, LA",Louisiana
+SFO,14771,1477104,"San Francisco, CA",California
+BHM,10599,1059904,"Birmingham, AL",Alabama
+PIE,14112,1411206,"St. Petersburg, FL",Florida
+DTW,11433,1143302,"Detroit, MI",Michigan
+OAK,13796,1379608,"Oakland, CA",California
+GTR,12007,1200704,"Columbus, MS",Mississippi
+ELM,11537,1153706,"Elmira/Corning, NY",New York
+OWB,13983,1398305,"Owensboro, KY",Kentucky
+PIA,14108,1410803,"Peoria, IL",Illinois
+ATW,10408,1040805,"Appleton, WI",Wisconsin
+AMA,10279,1027903,"Amarillo, TX",Texas
+SBY,14704,1470405,"Salisbury, MD",Maryland
+GGG,11905,1190502,"Longview, TX",Texas
+PDX,14057,1405702,"Portland, OR",Oregon
+FAY,11641,1164102,"Fayetteville, NC",North Carolina
+ECP,11481,1148102,"Panama City, FL",Florida
+ORD,13930,1393007,"Chicago, IL",Illinois
+IDA,12280,1228002,"Idaho Falls, ID",Idaho
+GJT,11921,1192102,"Grand Junction, CO",Colorado
+TVC,15380,1538005,"Traverse City, MI",Michigan
+FCA,11648,1164802,"Kalispell, MT",Montana
+HGR,12119,1211902,"Hagerstown, MD",Maryland
+BUR,10800,1080003,"Burbank, CA",California
+MLB,13360,1336003,"Melbourne, FL",Florida
+TXK,15401,1540103,"Texarkana, AR",Arkansas
+IAG,12265,1226505,"Niagara Falls, NY",New York
+STC,15008,1500803,"St. Cloud, MN",Minnesota
+IAD,12264,1226402,"Washington, DC",Virginia
+RSW,14635,1463502,"Fort Myers, FL",Florida
+FAI,11630,1163002,"Fairbanks, AK",Alaska
+OME,13873,1387305,"Nome, AK",Alaska
+BQN,10732,1073203,"Aguadilla, PR",Puerto Rico
+ALO,10268,1026802,"Waterloo, IA",Iowa
+COU,11111,1111105,"Columbia, MO",Missouri
+SAF,14674,1467402,"Santa Fe, NM",New Mexico
+LAS,12889,1288903,"Las Vegas, NV",Nevada
+BMI,10685,1068503,"Bloomington/Normal, IL",Illinois
+JAC,12441,1244102,"Jackson, WY",Wyoming
+STT,15024,1502403,"Charlotte Amalie, VI",U.S. Virgin Islands
+USA,12544,1254404,"Concord, NC",North Carolina
+COS,11109,1110902,"Colorado Springs, CO",Colorado
+JAN,12448,1244807,"Jackson/Vicksburg, MS",Mississippi
+ONT,13891,1389101,"Ontario, CA",California
+TUS,15376,1537604,"Tucson, AZ",Arizona
+CHO,10990,1099005,"Charlottesville, VA",Virginia
+CHS,10994,1099402,"Charleston, SC",South Carolina
+MGM,13277,1327702,"Montgomery, AL",Alabama
+SPI,14952,1495203,"Springfield, IL",Illinois
+MOB,13422,1342202,"Mobile, AL",Alabama
+GNV,11953,1195302,"Gainesville, FL",Florida
+MEM,13244,1324402,"Memphis, TN",Tennessee
+DHN,11308,1130802,"Dothan, AL",Alabama
+SCK,14716,1471603,"Stockton, CA",California
+PBI,14027,1402702,"West Palm Beach/Palm Beach, FL",Florida
+CYS,11233,1123302,"Cheyenne, WY",Wyoming
+CLL,11049,1104903,"College Station/Bryan, TX",Texas
+DDC,11283,1128302,"Dodge City, KS",Kansas
+JLN,12511,1251103,"Joplin, MO",Missouri
+PLN,14150,1415002,"Pellston, MI",Michigan
+SHR,14812,1481202,"Sheridan, WY",Wyoming
+PIH,14113,1411302,"Pocatello, ID",Idaho
+SWO,15074,1507402,"Stillwater, OK",Oklahoma
+VEL,15582,1558203,"Vernal, UT",Utah
+JMS,12519,1251902,"Jamestown, ND",North Dakota
+RIW,14534,1453402,"Riverton/Lander, WY",Wyoming
+BIH,10617,1061705,"Bishop, CA",California
+OTH,13964,1396403,"North Bend/Coos Bay, OR",Oregon
+ACY,10158,1015804,"Atlantic City, NJ",New Jersey
+SUN,15041,1504102,"Sun Valley/Hailey/Ketchum, ID",Idaho
+YKM,16101,1610102,"Yakima, WA",Washington
+PAH,14006,1400602,"Paducah, KY",Kentucky
+OGS,13832,1383205,"Ogdensburg, NY",New York
+ACV,10157,1015706,"Arcata/Eureka, CA",California
+CDC,10918,1091802,"Cedar City, UT",Utah
+LBE,12898,1289806,"Latrobe, PA",Pennsylvania
+LWS,13127,1312702,"Lewiston, ID",Idaho
+RKS,14543,1454303,"Rock Springs, WY",Wyoming
+APN,10333,1033302,"Alpena, MI",Michigan
+EKO,11525,1152505,"Elko, NV",Nevada
+SLN,14877,1487706,"Salina, KS",Kansas
+TBN,15138,1513802,"Fort Leonard Wood, MO",Missouri
+COD,11097,1109702,"Cody, WY",Wyoming
+SJT,14842,1484202,"San Angelo, TX",Texas
+LWB,13121,1312102,"Lewisburg, WV",West Virginia
+JST,12559,1255905,"Johnstown, PA",Pennsylvania
+ABR,10141,1014106,"Aberdeen, SD",South Dakota
+EWN,11617,1161708,"New Bern/Morehead/Beaufort, NC",North Carolina
+ASE,10372,1037205,"Aspen, CO",Colorado
+GCC,11865,1186502,"Gillette, WY",Wyoming
+IMT,12335,1233502,"Iron Mountain/Kingsfd, MI",Michigan
+MQT,13459,1345903,"Marquette, MI",Michigan
+LBL,12902,1290205,"Liberal, KS",Kansas
+MCW,13211,1321105,"Mason City, IA",Iowa
+PIB,14109,1410902,"Hattiesburg/Laurel, MS",Mississippi
+RDD,14487,1448702,"Redding, CA",California
+FOD,11725,1172502,"Fort Dodge, IA",Iowa
+VCT,15569,1556902,"Victoria, TX",Texas
+RHI,14520,1452002,"Rhinelander, WI",Wisconsin
+HLN,12156,1215605,"Helena, MT",Montana
+HYS,12255,1225502,"Hays, KS",Kansas
+INL,12343,1234305,"International Falls, MN",Minnesota
+EAT,11470,1147005,"Wenatchee, WA",Washington
+PRC,14237,1423706,"Prescott, AZ",Arizona
+CIU,11013,1101303,"Sault Ste. Marie, MI",Michigan
+LBF,12899,1289902,"North Platte, NE",Nebraska
+MKG,13344,1334403,"Muskegon, MI",Michigan
+PUW,14303,1430303,"Pullman, WA",Washington
+ACK,10154,1015405,"Nantucket, MA",Massachusetts
+HYA,12250,1225002,"Hyannis, MA",Massachusetts
+PIR,14120,1412002,"Pierre, SD",South Dakota
+ATY,10409,1040903,"Watertown, SD",South Dakota
+HVN,12244,1224403,"New Haven, CT",Connecticut
+CDB,10917,1091706,"Cold Bay, AK",Alaska
+MKK,13347,1334702,"Hoolehua, HI",Hawaii
+MMH,13388,1338801,"Mammoth Lakes, CA",California
+BFM,10562,1056202,"Mobile, AL",Alabama
+JHM,12492,1249202,"Kapalua, HI",Hawaii
+UIN,15454,1545405,"Quincy, IL",Illinois
+USA,12544,1254404,"CONCORD, NC",North Carolina
+BMI,10685,1068502,"Bloomington/Normal, IL",Illinois
+BZN,10849,1084905,"Bozeman, MT",Montana
+SWF,15070,1507002,"Newburgh/Poughkeepsie, NY",New York
+DLH,11337,1133703,"Duluth, MN",Minnesota
+SUX,15048,1504803,"Sioux City, IA",Iowa
+MHK,13290,1329002,"Manhattan/Ft. Riley, KS",Kansas
+SDF,14730,1473003,"Louisville, KY",Kentucky
+DRO,11413,1141306,"Durango, CO",Colorado
+PUW,14303,1430302,"Pullman, WA",Washington
+LGB,12954,1295406,"Long Beach, CA",California
+CLL,11049,1104902,"College Station/Bryan, TX",Texas
+DSM,11423,1142306,"Des Moines, IA",Iowa
+STC,15008,1500802,"St. Cloud, MN",Minnesota
+BRO,10747,1074705,"Brownsville, TX",Texas
+HVN,12244,1224402,"New Haven, CT",Connecticut
+PRC,14237,1423705,"Prescott, AZ",Arizona
+TUS,15376,1537603,"Tucson, AZ",Arizona
+USA,12544,1254403,"CONCORD, NC",North Carolina
+ISN,12389,1238902,"Williston, ND",North Dakota
+SCK,14716,1471602,"Stockton, CA",California
+MKG,13344,1334402,"Muskegon, MI",Michigan
+ALW,10275,1027505,"Walla Walla, WA",Washington
+BZN,10849,1084906,"Bozeman, MT",Montana
+CNY,11092,1109203,"Moab, UT",Utah
+TUS,15376,1537602,"Tucson, AZ",Arizona
+USA,12544,1254403,"Concord, NC",North Carolina
+YNG,16133,1613305,"Youngstown/Warren, OH",Ohio
