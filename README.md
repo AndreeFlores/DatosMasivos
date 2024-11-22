@@ -8,3 +8,7 @@
 
  Debido al tamaño de los datos, no pude subir el archivo de los datos.
  Para cargar los datos agrega el archivo data.zip descargado del link en la carpeta Datos.
+
+## Proyecto
+
+ El repositorio de la app del proyecto se encuentra en <https://huggingface.co/spaces/Pokefan719/UANL_MCD_DM_JAFG/tree/main>
